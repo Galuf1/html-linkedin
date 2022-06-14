@@ -1,1 +1,10 @@
-/* write styles here */
+ul#menu li{
+    display:inline-block;
+}
+.navigator-bar {
+    width:100%;
+    align-items: center;
+    display: flex;
+    margin: 0 auto;
+    min-height: 100%;
+}
