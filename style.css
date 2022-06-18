@@ -1,0 +1,12 @@
+html{
+    box-sizing: border-box;
+}
+#nav-bar-logo{
+    max-height:40px;
+    padding-right: 10px;
+}
+
+.d-flex{
+    position:relative
+
+}

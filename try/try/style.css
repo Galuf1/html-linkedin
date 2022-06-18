@@ -1,0 +1,32 @@
+
+.card {
+    background-color:rgb(163, 163, 163);
+    border:0;
+    padding: 0;
+    width: 60%;
+}
+.card-contact{
+    background-color: rgb(163, 163, 163);
+    max-width: 60%;
+    border:border-box;
+}
+.card-body{
+    height: 200px;
+    /* background-color: red; */
+}
+.card-info{
+    background-color: rgb(229, 229, 230);
+}
+#ember1315{
+  flex: none;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  z-index: 10;
+  background-color: transparent;
+  position:relative;
+  top:120px;
+}
+
+
